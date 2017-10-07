@@ -1,0 +1,182 @@
+body {
+    color: #000000;
+    font-family: "Open Sans";
+    font-size: 22px;
+}
+
+body.navbar-is-fixed-top {
+    margin-top: 51px;
+}
+
+.navbar-fixed-top {
+
+}
+.main-container {
+    width: 100%;
+    background-color: #ede8e2;
+}
+
+.logo {
+width: 100%;
+}
+
+.logo img {
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 821px;
+    width: 70%;
+}
+
+h2 {
+    color: #ffffff;
+    font-family: "Roboto Slab",serif;
+    font-size: 3.3rem;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.single-page h2 {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.single-page {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 27px;
+    text-align: justify;
+    margin: 0 auto;
+    padding-left: 3.33%;
+    padding-right: 3.33%;
+    width: 100%;
+    max-width: 960px;
+}
+
+.main-container .col-sm-12 {
+padding: 0;
+}
+
+
+.single-page-wrapper {
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 150px;
+}
+
+#about {
+    background-color: #92c091;
+    background-image: linear-gradient(to right top, #92c091 0%, #a5ca8e 55%, #a5ca8e 59%, #b5d28c 100%);
+    background-size: 100% auto;
+    position: relative;
+    width: 100%;
+    min-height: 95vh;
+}
+
+#philosophy {
+    background-color: #67c3c2;
+    background-image: linear-gradient(to right top, #67c3c2 0%, #8bd3d1 49%, #95d7d5 59%, #abe3e1 100%);
+    background-size: 100% auto;
+    color: #526665;
+    position: relative;
+    width: 100%;
+    min-height: 95vh;
+}
+
+#join-us {
+    background-color: #92c091;
+    background-image: linear-gradient(to right top, #ffbba7 0%, #f7a79d 55%, #f7a79d 59%, #f7a79d 100%);
+    background-size: 100% auto;
+    position: relative;
+    width: 100%;
+    min-height: 95vh;
+}
+
+#join-us a {
+    color: #eee;
+}
+
+#contact {
+    background-color: #f05135;
+    background-image: linear-gradient(to right top, #f05135 0%, #f26437 42%, #f36f38 64%, #f47e38 100%);
+    background-size: 100% auto;
+    position: relative;
+    width: 100%;
+    min-height: 95vh;
+}
+
+
+
+a.to-next-page::after {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 50%;
+    bottom: 39px;
+    content: "\203A";
+    display: block;
+    font-family: "icon";
+    font-size: 40px;
+    height: 39px;
+    left: 50%;
+    line-height: 35px;
+    margin-left: -18px;
+    padding-left: 15px;
+    padding-top: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+    width: 39px;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+#about a.to-next-page {
+    color: #77c8c6;
+}
+
+#philosophy a.to-next-page {
+    color: #f05135;
+}
+
+#join-us a.to-next-page {
+    color: #f36d37;
+}
+
+a.to-next-page {
+    display: block;
+    font-size: 0;
+    margin-top: 130px;
+}
+a {
+    color: #fbb719;
+    text-decoration: none;
+}
+a {
+    background: transparent none repeat scroll 0 0;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+
+#block-glia-smallglialogo div{
+    float: left;
+}
+
+a.navbar-brand {
+    padding: 0;
+}
+
+#block-glia-smallglialogo img {
+    width: 100px;
+    float: left;
+}
+.region-navigation {
+    float: left;
+}
+
+.form-item {
+max-width: 50%;
+}
+

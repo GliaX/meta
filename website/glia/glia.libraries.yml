@@ -1,0 +1,6 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+      //fonts.googleapis.com/css?family=Roboto+Slab: { type: external }
+      //fonts.googleapis.com/css?family=Open+Sans: { type: external }
