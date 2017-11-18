@@ -1,0 +1,81 @@
+====== Tarek Loubani Quarterly Update August 2017 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, we further refined a mass-manufacturing workflow that allows for production, serial numbering and quality assurance of stethoscopes, including developing a supply-chain that can provide raw materials (ear buds, silicone tubes) both in the developing world and in Canada.
+
+We produced over a hundred stethoscopes that were distributed during a major grand rounds presentation to internal medicine physicians, residents (interns) and students (clerks). This was very well received. As well, ten units were manufactured and distributed in the developing country to start the process.
+
+The designs for the stethocopes were modified to make mass manufacture easier.
+
+=== Tourniquets ===
+Several versions of the trauma tourniquet were produced and sent to the disaster committee for review. This process is ongoing, though I expect that we will not need more than five further iterations to settle on a final prototype.
+
+=== Pulse Oximeters ===
+The pulse oximetry project's collaboration with IRNAS (via Eng. Luka Mustafa) has yielded a working prototype of a pulse oximeter that fits all of the specifications. This prototype needs minimal refinement before it can be calibrated and validated. This process is expected to take another 2-4 months.
+
+=== Dialysis ===
+We have stopped all work on the Dialysis project for now, as we have lost our main academic and medical partner in this for now.
+
+==== Where did you go? ====
+=== Developing country ===
+I entered a developing country twice since my last quarterly report, once in June and once in August. This allowed me to make valuable connections in preparing the stethoscope for mass distribution, as well as regroup with the developing country team and ensure that we are still on track to meet our goals.
+
+As well, being in-country allows me to work in the emergency department, which is the acid test of needs assessment, as I participate directly in the delivery of care to patients and hear the needs of colleagues and patients directly.
+
+==== What have you been talking about? ====
+=== Free Hardware and Software ===
+During this quarter, a side project was to run a week-long summer camp for high school students showcasing 3D printing and the advantages of Free Software and Hardware. This is part of our larger aim of creating a national-level change in the consciousness of Free/Open software and Hardware here. It was also an opportunity to identify some talented students who we can tap later in their educations to join the biomedical engineering efforts we are working on.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+  * The ministry of health of at least one developing country (moderate to high)
+  * The biomedical engineering faculty at one developing country (high)
+  * London Health Sciences' Emergency department (high to very high)
+  * Western University Faculty of Medicine (high)
+
+We are seeking more engagement with:
+  * The ministry of education of at least one developing country (moderate likelihood)
+  * The United Nations Relief Works Agency (UNRWA)
+  * Other universities in the developing country (mild likelihood)
+  * Other medical schools in Canada (high likelihood)
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+=== Mass manufacturing workflow ===
+Manufacturing and distributing over a hundred stethoscopes in Canada with the intention of distributing almost a thousand in the next quarter has led to tremendous gains in terms of the knowledge of how to produce many units with high quality. This has allowed for those mass manufacturing mistakes not to be made in the developing country context.
+
+Our goal is to increase production to approximately 100 stethoscope units per month in the developing country over the next quarter, with more increases after that until 4000 units have been produced. The biggest limiter here will be the import of silicone tubing. 
+
+=== Pulse Oximeter ===
+The pulse oximeter has now reached a stage where we need a few final tweaks and can finally go to clinical trials. This is amazing, and a validation of the "cut and run" philosophy that caused us to abandon the previous models and go with IRNAS and their team.
+
+=== Tourniquet ===
+I am very pleased by the progress of the tourniquet, which has developed with minimal input or interference from the Canadian side. The tourniquet truly represents the model we want: A problem identified by those affected and a solution constructed by people who they can access.
+
+==== What was your biggest loss over the past 3 month - and what did you learn from it? ====
+=== Unexpected slowdowns in developing country office ===
+The developing country office lost a key piece of equipment (filament extruder), which unexpectedly ground things to a halt on the production side for a few weeks. This set the schedule back.
+
+At the beginning of this problem, there was a significant amount of denial mixed with techno-utopianism. We simply believed we could engineer our way out of the gear problem and so delayed ordering and sending gears. In the future, I think we should consider the possibility that maybe a replacement part needs to be ordered, even if it's not easy to envision how it would enter.
+
+==== What is the shape of your team? ====
+=== Developing country ===
+  * Two full-time and one half-time engineers (Shuttleworth-funded)
+  * Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+  * Incoming project manager - July start (Shuttleworth-funded)
+  * Summer Research Training Program - medical student for the summer (Western University funded)
+  * Student Research Opportunities Program - medical student for the summer (Western University funded)
+
+=== Slovenia ===
+  * IRNAS team working on pulse oximetry (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+  * Number of stethoscopes distributed in Canada since March: 150
+  * Number of stethoscopes distributed in the developing country: 10
+  * Number of patients tested with prototype pulse oximeter (calibration): 0
+  * Number of patients tested with prototype pulse oximeter (validation): 0
