@@ -1,0 +1,85 @@
+====== Tarek Loubani Quarterly Update November 2017 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, we produced over a hundred stethoscopes in the developing country, and have started distributing them to physicians, students and allied health professionals during sessions that involve both an introduction to Free/Open Hardware and software as well as lessons in proper auscultation. These have been well-received.
+
+=== Tourniquets ===
+Several versions of the trauma tourniquet were produced and sent to the disaster committee for review. The latest version is soon to enter field trials with select paramedics. This process is ongoing, and it is expected that several more iterations will be required before settling on a final design.
+
+=== Pulse Oximeters ===
+The pulse oximetry project's collaboration with IRNAS (via Eng. Luka Mustafa) has yielded a working prototype of a pulse oximeter that fits all of the specifications. This prototype's finger clip is currently being refined and will then be ready for clinical calibration and validation trials. It will likely take at least 6 months before the pulse oximeter is ready for distribution.
+
+=== Electrocardiogram ===
+Preliminary design work has begun on the electrocardiogram. We were able to connect with the makers of an open design (MobilECG) that we will likely build on. We have signed agreements with IRNAS and Shuttleworth to ensure the success of this project.
+
+=== Dialysis ===
+We have stopped all work on the Dialysis project for now, as we have lost our main academic and medical partner in this for now. However, renewed interest in the project from the Ministry of Health in the developing country and the World Health Organization mean that we might be able to restart this project.
+
+==== Where did you go? ====
+=== Developing country ===
+I entered a developing country in August/September and November. This allowed me to make valuable connections in preparing the stethoscope for mass distribution, as well as regroup with the developing country team and ensure that we are still on track to meet our goals.
+
+As well, being in-country allows me to work in the emergency department, which is the acid test of needs assessment, as I participate directly in the delivery of care to patients and hear the needs of colleagues and patients directly.
+
+==== What have you been talking about? ====
+=== Free Hardware and Software ===
+During this quarter, we have continued to raise awareness about the benefits of Free Hardware and Software in the creation of sustainable and high quality medical devices. The insertion of this component into medical teaching on these devices has been a welcome addition to the curriculum on stethoscope use.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+  * The ministry of health of at least one developing country (moderate to high)
+  * The biomedical engineering faculty at one developing country (high)
+  * London Health Sciences' Emergency department (high to very high)
+  * Western University Faculty of Medicine (high)
+
+We are seeking more engagement with:
+  * The ministry of education of at least one developing country (moderate likelihood)
+  * The United Nations Relief Works Agency (UNRWA)
+  * The World Health Organization (WHO)
+  * Other universities in the developing country (mild likelihood)
+  * Other medical schools in Canada (high likelihood)
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+=== Introduction of a full-time Project Manager ===
+Carrie Wakem entered service as a full-time project manager of the Glia team in July and has ramped up her engagement since then. Her responsibilities are primarily to ensure that tasks are recorded and adhered to, but her work also ranges from writing grant proposal drafts to managing the financial health of the organization. The consolidation of administrative tasks with one person on the team has helped other members focus on their core duties and to better adhere to deadlines and task scopes.
+
+=== First major funding proposal written by whole team ===
+A large part of October was spent writing a major grant, which would be the largest grant the team acquired other than the Shuttleworth Foundation Fellowship. This was Carrie's first grant proposal and involved lots of learning for the entire team. The grant was submitted and is something the whole team is proud of. We learned many practical things such as the workflow for grantwriting, who in our world is able and willing to edit and advise, and also how we can write effective grant proposals.
+
+In the longterm, obtaining funding will be important for our ability to create new devices. This process should put us on a path to tap more of these academic and governmental funds.
+
+=== New management strategy in developing country ===
+As the Glia project has grown, we have run into well-treaded problems about team dynamics, inventory tracking and production management. After a deep discussion during the May Gathering in India, the Glia team implemented several new strategies, including quick daily briefings, deeper weekly meetings, a whiteboard for goal tracking, and more open discussion between team members. We also reduced work hours to 8 per day for 5 days per week. This has produced a better work environment and resulted in massive gains in product quality and production workflow.
+
+Tracking our production and inventory has allowed us to focus energy in the supply chain where bottlenecks occur, and to ensure that we have minimal downtime in 3D printer machines due to short filament stock or other consumables.
+
+=== Pulse Oximeter ===
+The pulse oximeter is now ready for clinical calibration and validation trials. The last stages have taken time and an attention to detail, which has taught us patience and persistence.
+
+==== What was your biggest loss over the past 3 month - and what did you learn from it? ====
+=== We overestimated our production capacity ===
+When we estimated our production capacity, it was a simple multiplication of parts per hour by hours per day. Unfortunately, this left us underperforming our estimates and failing to meet our targets. As a result, we have adopted an approach of making our best guess for production values, but quickly shifting those estimates based on observed data.
+
+=== We had serious team dynamics issues ===
+As discussed in some of our positive developments above, our team's natural growth and lack of structure resulted in decreased productivity and team harmony. The seriousness of these dynamics was obscured by the success of the team on multiple fronts. Luckily, we were able to restore team cohesiveness before serious consequences manifested. The lesson learned here is to quickly identify and communicate difficulties within the team and apply necessary corrections - or at least attempt them.
+
+==== What is the shape of your team? ====
+=== Developing country ===
+  * Three full-time engineers (Shuttleworth-funded)
+  * Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+  * Project manager (Shuttleworth-funded)
+
+=== Slovenia ===
+  * IRNAS team working on pulse oximetry and electrocardiogram (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+  * Number of stethoscopes distributed in Canada since March: 200
+  * Number of stethoscopes distributed in the developing country: 50
+  * Number of patients tested with prototype pulse oximeter (calibration): 0
+  * Number of patients tested with prototype pulse oximeter (validation): 0

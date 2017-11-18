@@ -1,0 +1,86 @@
+====== Tarek Loubani Quarterly Update May 2017 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, we developed and tested a mass-manufacturing workflow that allows for production, serial numbering and quality assurance of stethoscopes, including developing a supply-chain that can provide raw materials (ear buds, silicone tubes) both in the developing world and in Canada.
+
+This workflow now leaves us poised to manufacture large quantities (dozens) of stethoscopes both in developing countries and in Canada over the next quarter.
+
+=== Tourniquets ===
+At the beginning of this quarter, the disaster committee of one war-torn developing country requested that our team develop an easy-to-produce, easy-to-use tourniquet to be ready in the event of a war. The team has developed a replica of the CAT (combat application tourniquet) that is used by the US armed forces. Due to resource limitations, we are also currently engineering a version that uses minimal materials (e.g., no velcro).
+
+=== Pulse Oximeters ===
+The pulse oximetry project is currently in the engineering phase. Fellow Luka Mustafa's team at IRNAS has developed a working prototype that needs further refinement before it can be calibrated and validated. This process is expected to take another 4-6 months.
+
+=== Dialysis ===
+We have started pre-planning for a dialysis project which will seek to create an open hardware hemodialysis machine for patients with end stage kidney disease. This project should be ready to start in approximately 12 months after we complete the pulse oximeter.
+
+==== Where did you go? ====
+=== Gathering ===
+I attended the Gathering in Vancouver, Canada.
+
+=== Developing country ===
+I attempted to enter a developing country, though I did not gain permission to enter due to a blockade.
+
+==== What have you been talking about? ====
+=== Free Hardware ===
+The distribution, manufacture and quality assurance of Free hardware is at the foundation of this project. This requires constant conversations about the potential pitfalls of an open manufacturing system.
+
+In addition to producing devices, we are marketing the advantages of Free hardware in both solving immediate problems and also setting the foundations for future indigenous research, development and production of devices.
+
+=== Free Software ===
+Our project has maintained a completely Free/open software stack where possible, which has already given dividends in the ability to extend software (e.g., extending OpenSCAD into CrystalSCAD) and the ability to reuse other projects' software. As we continue to discuss the advantages we have accrued, we are also helping our local partners in developing countries move to Free/Open software solutions for their development and group communication.
+
+=== Independence ===
+The ultimate goal of this project is creating national independence in terms of developing and also producing devices. Most of our conversations have this theme at their core: How to educate future STEM students; How to ensure that devices can be repaired in-country; How to create a diverse ecosystem to ensure continuity and sustainability; How to introduce 3D printing and rapid prototyping culture.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+ - The ministry of health of at least one developing country (moderate to high)
+ - The biomedical engineering faculty at one developing country (high)
+ - London Health Sciences' Emergency department (high to very high)
+ - Western University Faculty of Medicine (high)
+
+We are seeking more engagement with:
+ - The ministry of education of at least one developing country (moderate likelihood)
+ - Other universities in the developing country (mild likelihood)
+ - Other medical schools in Canada (high likelihood)
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+=== Remote office ===
+The establishment of a remote office in a developing country has been the single largest win of the past 3 months. This has allowed for the formalization of the relationship between the Glia project and its main implementers in the developing country where the project will be deployed. It has also allowed for us to set up a manufacturing facility that has 100% uptime regarding electricity.
+
+
+==== What was your biggest loss over the past 3 month - and what did you learn from it? ====
+=== Delay of pulse oximetry engineering ===
+The delays involved in organizing and rebooting engineering related to pulse oximetry has been the single largest barrier to advancing our currently active pulse oximetry project. This has resulted in a delay in our summer plans and an overall delay in the project.
+
+There are two important lessons that I am developing as a result:
+
+1. Don't be too self-delusional. It seems that some self-delusion is psychologically and emotionally protective. However, there is a particular stupidity to assuming that something as complex as R&D can operate on a predictable timeline. I made lots of plans on the basis that development would take as long as initially predicted by the various engineering teams involved and then blissfully deluded myself into believing against available evidence that we could still meet that timeline.
+
+2. Cut and run. Admitting that an engineer or team could not complete the job adequately was an admission of failure of my personal and professional judgment. One take-home lesson is to try to recognize failure as quickly as possible (while giving the team a fair shot) and then moving onto the next plan.
+
+
+==== What is the shape of your team? ====
+=== Developing country ===
+* Two full-time and one half-time engineers (Shuttleworth-funded)
+* Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+* Incoming project manager - July start (Shuttleworth-funded)
+* Summer Research Training Program - medical student for the summer (Western University funded)
+* Student Research Opportunities Program - medical student for the summer (Western University funded)
+
+=== Slovenia ===
+* IRNAS team working on pulse oximetry (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+* Number of stethoscopes distributed in Canada since March: 0
+* Number of stethoscopes distributed in the developing country: 0
+* Number of patients tested with prototype pulse oximeter (calibration): 0
+* Number of patients tested with prototype pulse oximeter (validation): 0
+
