@@ -1,0 +1,7 @@
+M104 S0 ; turn off temperature
+M140 S0 ; turn off heatbed
+G1 X0 Y200; home X axis
+M84 ; disable motors 
+M300 S300 P1500
+M107 ; turn off fan
+

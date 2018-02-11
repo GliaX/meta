@@ -1,0 +1,23 @@
+M83  ; extruder relative mode
+M140 S[first_layer_bed_temperature] ; set bed temp
+M104 S[first_layer_temperature] ; set extruder temp
+M190 S[first_layer_bed_temperature] ; wait for bed temp
+M109 S[first_layer_temperature] ; wait for extruder temp
+; Retract filament to prevent oozing
+G92 E0 ; reset extruder location
+G1 F500 E-8 ; retract by -8
+G92 E0 ; reset again
+
+G28 ; home all without mesh bed level
+G29 P0; Wipe old mesh
+G29 P1; mesh bed leveling
+G29 P3 T; mesh bed leveling
+G29 A; Activate Mesh bed leveling
+; Corrections to points
+;M421 I2 J0 Q-0.1 ; Correct front right point
+;M421 I0 J2 Q+0.5 ; Correct back left point
+;M421 I2 J2 Q-0.2 ; Correct front right point
+
+G1 X0 Y-1 Z0.5 F4000.0 ; go outside print area
+G1 X60.0 E9.0  F1000.0 ; intro line
+G1 X100.0 E12.5  F1000.0 ; intro line
