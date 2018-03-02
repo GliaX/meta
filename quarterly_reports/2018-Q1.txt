@@ -1,0 +1,81 @@
+====== Tarek Loubani Quarterly Update March 2017 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, we produced over several hundred stethoscopes in the developing country, and have started distributing them to physicians, students and allied health professionals during sessions that involve both an introduction to Free/Open Hardware and software as well as lessons in proper auscultation. These have been well-received.
+
+=== Tourniquets ===
+The disaster committee approved a final version of the tourniquet, and 200 of these were produced for entry into field trials. As well, we created a trauma simulator manakin that allows for the training of physicians, paramedics, nurses and others in the use of the tourniquet. We plan on using the design modifications to create a injection molded tourniquet that can be produced in very high numbers.
+
+=== Pulse Oximeters ===
+The pulse oximetry project's collaboration with IRNAS (via Eng. Luka Mustafa) has yielded a working prototype of a pulse oximeter that fits all of the specifications. This prototype is almost ready for clinical calibration and validation trials. It will likely take at least 6 months before the pulse oximeter is ready for distribution.
+
+=== Electrocardiogram ===
+Preliminary design work has begun on the electrocardiogram and a prototype has been made for testing and further refinement.
+
+=== Dialysis ===
+We have stopped all work on the Dialysis project for now, as we have lost our main academic and medical partner in this for now. However, renewed interest in the project from the Ministry of Health in the developing country and the World Health Organization mean that we might be able to restart this project.
+
+==== Where did you go? ====
+=== Developing country ===
+I entered a developing country in November and February. The focus of these trips was to set a strategic direction for the coming year, to gain buy-in from the World Health Organization (WHO), and to start a new partnership with the Ministry of Health's biomedical engineers to design and print high tolerance replacement parts for their equipment.
+
+As well, being in-country allows me to work in the emergency department, which is the acid test of needs assessment, as I participate directly in the delivery of care to patients and hear the needs of colleagues and patients directly.
+
+==== What have you been talking about? ====
+=== Free Hardware and Software ===
+During this quarter, we have continued to raise awareness about the benefits of Free Hardware and Software in the creation of sustainable and high quality medical devices. The insertion of this component into medical teaching on these devices has been a welcome addition to the curriculum on stethoscope use.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+  * The ministry of health of at least one developing country (moderate to high)
+  * The biomedical engineering faculty at one developing country (high)
+  * London Health Sciences' Emergency department (high to very high)
+  * Western University Faculty of Medicine (high)
+  * World Health Organization's Health Cluster (medium)
+
+We are seeking more engagement with:
+  * The ministry of education of at least one developing country (moderate likelihood)
+  * The United Nations Relief Works Agency (UNRWA; low likelihood due to defunding)
+  * Other universities in the developing country (moderate likelihood)
+  * Other medical schools in Canada (high likelihood)
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+=== Engagement with World Health Organization and opening the repair front ===
+A major domain of our work has consisted of creating new high impact devices and developing the capacity to repair those devices. For various reasons, we have not seriously considered creating spare parts using 3D printing. Over the past quarter, we have recognized a shift in the World Health Organization (WHO) that is primarily driven by sustainability considerations. The chief of the WHO's health cluster in the occupied Palestinian Territories has been looking for away to reduce costs and entry barriers for spare parts while increasing sustainability. While researching the subject, she ran into our work, which fits into her plan to reduce costs, train local staff and decrease dependence on donors and Israelis.
+
+Our lesson has been to remain nimble and open to opportunities when they present and are consistent with our vision.
+
+
+=== Elimination of a major bottleneck in printer filament ===
+All of Gaza's filament was produced with an 'imported' filament extruder. When this device had problems, we struggled to repair it. Having gained tremendous experience over the past three years, our team was finally able to use their engineering expertise combined with filament extrusion experience to create a device that could be manufactured completely in the Gaza Strip using locally-sourced parts.
+
+The most important lesson - also the most painful - is that making even simple machines is complex, time-consuming, and requires as much art as science. When making machines like this in the future, we now have a much better idea of how to structure our goals and pursue them.
+
+==== What was your biggest loss over the past 3 month - and what did you learn from it? ====
+=== We have outgrown our office and electricity ===
+Over the past few months, it has become increasingly obvious that our electricity supply will not be sufficient given the increased equipment and decreased grid-supplied power. This situation is not nearly critical, but with plans to double our manufacturing capacity, it will be within the next 6 months.
+
+We did not anticipate growth this rapid, and in fact hoped to keep our growth slow so as to ensure sustainability. A lesson here might be to revise the usage of things such as energy and space to ensure that they will always remain sufficient.
+
+==== What is the shape of your team? ====
+=== Developing country ===
+  * Three full-time engineers (Shuttleworth-funded)
+  * One part-time physician who is providing medical advice and support in the developing country (Fellow funded)
+  * Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+  * Project manager (Shuttleworth-funded)
+  * Volunteer designer
+
+=== Slovenia ===
+  * IRNAS team working on pulse oximetry and electrocardiogram (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+  * Number of stethoscopes distributed in Canada since March: 200
+  * Number of stethoscopes distributed in the developing country: 50
+  * Number of patients tested with prototype pulse oximeter (calibration): 0
+  * Number of patients tested with prototype pulse oximeter (validation): 0
