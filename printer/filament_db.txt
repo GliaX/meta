@@ -1,0 +1,12 @@
+# Filament database
+
+This database is to store settings for filaments.ca filament that we use for 
+production in Canada. It gives the ideal temperatures for each colour, as they 
+slightly vary for optimal quality. All prints are done on MK2/MK3 style printers 
+with E3D extruders.
+
+Each colour is presented as follows: Colour: First layer temp / other layer temp
+
+* Purple: 210/205
+* Solid yellow: 210/203
+* Dark orange: 210/205
