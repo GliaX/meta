@@ -1,0 +1,84 @@
+====== Tarek Loubani Quarterly Update March-May, 2018 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, we produced almost 500 stethoscopes in Canada, and distributed them to physicians, students and allied health professionals. These have been well-received. In the developing country, all stethoscope production was stopped for this period as part of an emergency response.
+
+=== Tourniquets ===
+Approximately 600 tourniquets have been made to date. The tourniquet project took a dramatic turn in which all of the foreign office's resources were rededicated to tourniquet production and testing. Field trials of the tourniquets were ultimately successful, and the last 300 tourniquets deployed have done so with a zero failure rate. Paramedics and first responders continue to be trained each Saturday in their use.
+
+=== Pulse Oximeters ===
+The pulse oximetry project's collaboration with IRNAS (via Eng. Luka Mustafa) has yielded a working prototype of a pulse oximeter that fits all of the specifications. This prototype is almost ready for clinical calibration and validation trials. It will likely take at least 6 months before the pulse oximeter is ready for distribution.
+
+=== Electrocardiogram ===
+Preliminary design work has begun on the electrocardiogram and a prototype has been made for testing and further refinement.
+
+
+==== Where did you go? ====
+=== Developing country ===
+I entered a developing country in May. This trip was focused on field deployment of the tourniquet in austere and dangerous environments. The tourniquets were a success, but unfortunately several of our team members were injured during testing. Two more detailed reports can be found here:
+
+https://medium.com/@trklou/3d-printed-open-source-tourniquet-rationale-failure-analysis-and-proposed-next-steps-of-the-glia-97e8441b4c5a
+
+https://medium.com/@trklou/3d-printed-tourniquet-day-2-of-gaza-field-trials-ends-badly-may-14-970b3f291e7
+
+==== What have you been talking about? ====
+=== Free Hardware and Software ===
+During this quarter, we have continued to raise awareness about the benefits of Free Hardware and Software in the creation of sustainable and high quality medical devices. The insertion of this component into medical teaching on these devices has been a welcome addition to the curriculum on stethoscope use.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+  * The ministry of health of at least one developing country (moderate to high)
+  * The biomedical engineering faculty at one developing country (high)
+  * London Health Sciences' Emergency department (high to very high)
+  * Western University Faculty of Medicine (high)
+
+We are seeking more engagement with:
+  * The ministry of education of at least one developing country (moderate likelihood)
+  * The United Nations Relief Works Agency (UNRWA; low likelihood due to defunding)
+  * Other universities in the developing country (moderate likelihood)
+  * Other medical schools in Canada (high likelihood)
+
+We have lost our relationship with:
+  * World Health Organization's Health Cluster (severed for the moment due to political pressure)
+
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+=== Tourniquet development ===
+A major domain of our work has consisted of creating new high impact devices and developing the capacity to create those devices locally. The tourniquet project represents the next step of our project: An idea brought forward by the medical community that is co-developed with our team. During the past three months, the tourniquet has proved a life-saving device that has had a major impact in the field. The deeper relationship with local medical organizations has been another side benefit.
+
+Our lesson has been to identify predictable crises and try to prepare for them with devices that are capable of mitigating the crisis. As in previous cases, identifying and capitalizing on opportunity has been key.
+
+
+==== What was your biggest loss over the past 3 month - and what did you learn from it? ====
+=== Our team was injured ===
+Four members of our field team were injured during testing of the tourniquets. We have not fully completed our failure analysis, but it is likely that at least some of those injuries were predictable, even if they were inevitable. The lessons are not yet clear from these unfortunate events, but we will seek to answer the following questions:
+
+1. Which injuries were preventable, and how?
+2. Was the risk of injury worth the gains?
+3. How can we either reduce the risk of injury or minimize the gains from being in dangerous situations?
+
+
+==== What is the shape of your team? ====
+=== Developing country ===
+  * Three full-time engineers (Shuttleworth-funded)
+  * One part-time physician who is providing medical advice and support in the developing country (Fellow funded)
+  * Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+  * Project manager (Shuttleworth-funded)
+  * Volunteer designer
+
+=== Slovenia ===
+  * IRNAS team working on pulse oximetry and electrocardiogram (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+  * Number of stethoscopes distributed in Canada this quarter: 250
+  * Number of stethoscopes distributed in the developing country this quarter: 0
+  * Number of tourniquets created in developing contry this quarter: >500
+  * Number of tourniquets deployed in the field this quarter: 300
+  * Number of patients tested with prototype pulse oximeter (calibration): 0
+  * Number of patients tested with prototype pulse oximeter (validation): 0
