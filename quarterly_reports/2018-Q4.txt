@@ -1,0 +1,86 @@
+====== Tarek Loubani Quarterly Update September-November, 2018 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, production of stethoscopes was still stopped to make changes to the design based on feedback from our mass deployment in Canada. In the developing country, all stethoscope production was stopped for this period as part of an emergency response.
+
+=== Tourniquets ===
+Over 1000 tourniquets have been made to date. The tourniquet project took a dramatic turn in which all of the foreign office's resources were rededicated to tourniquet production and testing. Field trials of the tourniquets were ultimately successful, and there have been zero failures of deployed tourniquets since May 11, 2018. Paramedics and first responders continue to be trained, though training has reduced to once every second Saturday for financial reasons connected to the disaster center that manages training.
+
+=== Pulse Oximeters ===
+The pulse oximetry project's collaboration with IRNAS (via Eng. Luka Mustafa) has yielded a final model of a pulse oximeter that fits all of the specifications. This prototype is ready for clinical calibration and validation trials, which should start this quarter.
+
+=== Electrocardiogram ===
+The electrocardiogram is now ready for a clinical trial. We have submitted an application to the research ethics board in London, Ontario for testing.
+
+
+==== Where did you go? ====
+=== Developing country ===
+I was unable to enter the developing country in August or November due to a current ban. A legal process is currently under way in an attempt to overturn this.
+
+=== Boston, Massachusetts ===
+I spoke at the 2018 Open Source Hardware Summit in Boston, Massachusetts to an audience of open hardware activists, makers and academics. This allowed us to discuss the tourniquet project from a technical and medical perspective.
+
+=== Maribor, Slovenia ===
+I travelled to Maribor, Slovenia along with Carrie Wakem (Project Manager) to work with IRNAS and Shuttleworth Fellow Luka Mustafa. Our goal was to finish development of the electrocardiogram prototype and pulse oximeter, and we succeeded in getting both to the stage where they can be used for clinical trials.
+
+=== Jordan ===
+Our developing country team travelled to Jordan, visiting several universities, organizations and FabLabs in Amman and Irbid - Jordan's two largest cities. In these visits, the team made excellent contacts in Jordan who are very supportive of the project and wish to learn more about the model of creating medical devices while working with health authorities.
+
+==== What have you been talking about? ====
+=== Free Hardware and Software ===
+During this quarter, we have continued to raise awareness about the benefits of Free Hardware and Software in the creation of sustainable and high quality medical devices. The insertion of this component into medical teaching on these devices has been a welcome addition to the curriculum on stethoscope use.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+  * The ministry of health of at least one developing country (moderate to high)
+  * The biomedical engineering faculty at one developing country (high)
+  * London Health Sciences' Emergency department (high to very high)
+  * Western University Faculty of Medicine (high)
+  * UBORA project - Euro-African Open Biomedical Engineering e-Platform for Innovation through Education (high)
+  * Open Source Hardware Association (moderate)
+
+We are seeking more engagement with:
+  * The ministry of education of at least one developing country (moderate likelihood)
+  * The United Nations Relief Works Agency (UNRWA; low likelihood due to defunding)
+  * Other universities in the developing country (moderate likelihood)
+  * Other medical schools in Canada (high likelihood)
+
+We have lost our relationship with:
+  * World Health Organization's Health Cluster (severed for the moment due to political pressure)
+
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+=== Pulse oximeter and Electrocardiogram models are feature complete ===
+We have had very small but blocking problems in our pulse oximetry prototype, which we were finally able to address after an intensive session in Slovenia with the IRNAS team. With the electrocardiogram, we were also able to bring the prototype to feature-complete status during the same intensive sessions.
+
+It was surprising to me how much we could accomplish with an intensive in-person session, despite the fact that all contributors are capable technical actors with extensive off-site collaboration experience. Our lesson has been to build into our project schedules and costs intensive in-person sessions. Doing this at the kick-off will help us ensure we are all on the same page, and doing this regularly will also help ensure that the project is on track.
+
+==== What was your biggest loss over the past 3 month - and what did you learn from it? ====
+=== Our teams from Canada and developing country halted production to travel ===
+Both of our main teams - Canadian and developing country - travelled extensively over the past quarter. This resulted in a nearly total decrease in production of tourniquets (developing country) and stethoscopes (Canada). We had developed reasonable stocks before, and so there were no stockouts in either location. However, one of the lessons from this event was to try to engage more people who can deal with production exclusive of some of the other operations of the project.
+
+
+==== What is the shape of your team? ====
+=== Developing country ===
+  * Three full-time engineers (Shuttleworth-funded)
+  * One part-time physician who is providing medical advice and support in the developing country (Fellow funded)
+  * Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+  * Project manager (Shuttleworth-funded)
+  * Volunteer designer
+
+=== Slovenia ===
+  * IRNAS team working on pulse oximetry and electrocardiogram (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+  * Number of stethoscopes distributed in Canada this quarter: 50
+  * Number of stethoscopes distributed in the developing country this quarter: 0
+  * Number of tourniquets created in developing contry this quarter: 500
+  * Number of tourniquets deployed in the field this quarter: 100
+  * Number of patients tested with prototype pulse oximeter (calibration): 0
+  * Number of patients tested with prototype pulse oximeter (validation): 0
