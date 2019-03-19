@@ -1,0 +1,97 @@
+====== Tarek Loubani Quarterly Update December 2018-February, 2019 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, production of stethoscopes was full steam, with the production of approximately 300 stethoscopes created and deployed in Canada. In the developing country, all stethoscope production was stopped for this period as part of an emergency response.
+
+=== Tourniquets ===
+Over 3000 tourniquets have been made to date. The tourniquet project took a dramatic turn in which all of the foreign office's resources were rededicated to tourniquet production and testing. Field trials of the tourniquets were ultimately successful, and there have been zero failures of deployed tourniquets since May 11, 2018. Paramedics and first responders continue to be trained, though training has reduced to once every second Saturday for financial reasons connected to the disaster center that manages training.
+
+=== Pulse Oximeters ===
+The pulse oximetry project's collaboration with IRNAS (via Eng. Luka Mustafa) has yielded a final model of a pulse oximeter that fits all of the specifications. The pilot part of our clinical calibration trial began in February in collaboration with a team of experts on pulse oximetry in London Health Sciences Centre. The first part of the clinical trial should complete in the next quarter.
+
+=== Electrocardiogram ===
+The electrocardiogram is now ready for a clinical trial. We have submitted an application to the research ethics board in London, Ontario for testing.
+
+=== Instruction manual ===
+We started work on a documentation manual to carefully catalogue our setup and manufacture process for printer information sessions, stethoscopes, otoscopes, tourniquets, pulse oximeters and electrocardiograms. While this site is still in its primitive stages, we hope it will become a definitive resource in how to create these items.
+
+
+==== Where did you go? ====
+=== Developing country ===
+I was unable to enter the developing country in February due to a current ban. A legal process is currently under way in an attempt to overturn this, and I anticipate entering in May.
+
+=== Paris, France ===
+I spoke at the École normale supérieure in Paris, France to an audience of academics interested in the health situation in developing country. This presentation involved a deep dive into the use of open source hardware to accomplish the goals of delivering care to patients in developing country and elsewhere.
+
+=== Tunis, Tunisia ===
+In Tunis, I spoke to the largest medical school in Tunisia about the use of medical devices in developing country and the health situation there. This was very well received as well.
+
+=== London, UK ===
+I spoke with several NGOs about our work on medical devices and some of our hopes for participation from more NGOs.
+
+=== Geneva, Switzerland ===
+I spoke with several international NGOs and country delegations about the health situation in the developing country and the difficulties developing medical devices in austere situations.
+
+==== What have you been talking about? ====
+=== Free Hardware and Software ===
+During this quarter, we have continued to raise awareness about the benefits of Free Hardware and Software in the creation of sustainable and high quality medical devices. The insertion of this component into medical teaching on these devices has been a welcome addition to the curriculum on stethoscope use.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+  * The ministry of health of at least one developing country (moderate to high)
+  * The biomedical engineering faculty at one developing country (high)
+  * London Health Sciences' Emergency department (high to very high)
+  * Western University Faculty of Medicine (high)
+  * Open Source Hardware Association (moderate)
+  * Tunisian medical school (moderate)
+
+We are seeking more engagement with:
+  * The ministry of education of at least one developing country (moderate likelihood)
+  * The United Nations Relief Works Agency (UNRWA; low likelihood due to defunding)
+  * Other universities in the developing country (moderate likelihood)
+  * Other medical schools in Canada (high likelihood)
+
+We have lost our relationship with:
+  * World Health Organization's Health Cluster (severed for the moment due to political pressure)
+
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+=== Pulse oximeter clinical trials have begun ===
+This quarter, we were able to start pilot trials of the calibration trial. All of the equipment was received, and the first three volunteers were subjected to most of the trial protocol. Within the next quarter, we will scale this up to full implementation of the calibration trial and aim to test 15-20 subjects, approximately half of what is required.
+
+=== The Medical School Project took off ==
+We have been thinking about ways to engage medical students in sustainable manufacture of medical devices. Our goal is that students create stethoscopes for the year after them under the guidance of Glia's Health Canada license. The students started the "Free and Open Source Medicine Club" (F'n OSM club) to ensure sustainability of this project.
+
+During this quarter, we found a comfortable rhythm of training and producing stethoscopes. This allows us to broaden and deepen our talent pool and also create a generation of medical students who are aware of open source hardware and open source medical devices. This generation will expand and extend their ideas into new and unexpected terrain.
+
+From this process, we have learned how to implement a knowledge translation project in which students learn about the ethos and practical aspects of free and open source medical hardware using the stethoscope as a practical example.
+
+==== What was your biggest loss over the past 3 month - and what did you learn from it? ====
+=== Growing pains in stethoscope manufacture ===
+While we have done well, engaging students to create high quality devices has been an uneven process. We learned many of the unclear points in our instructions and how to convey information to people who are new to the project. In so doing, we have learned that the only way to know a process works is to indeed test it on new people who are not otherwise exposed to our ideas and preconceptions.
+
+
+==== What is the shape of your team? ====
+=== Developing country ===
+  * Three full-time engineers (Shuttleworth-funded)
+  * One part-time physician who is providing medical advice and support in the developing country (Fellow funded)
+  * Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+  * Project manager (Shuttleworth-funded)
+  * Volunteer designer
+
+=== Slovenia ===
+  * IRNAS team working on pulse oximetry and electrocardiogram (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+  * Number of stethoscopes distributed in Canada this quarter: 200
+  * Number of stethoscopes distributed in the developing country this quarter: 0
+  * Number of tourniquets created in developing contry this quarter: 1000
+  * Number of tourniquets deployed in the field this quarter: unknown
+  * Number of patients tested with prototype pulse oximeter (calibration): 3
+  * Number of patients tested with prototype pulse oximeter (validation): 0
