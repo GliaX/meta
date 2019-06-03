@@ -1,0 +1,86 @@
+====== Tarek Loubani Quarterly Update March 2019-May, 2019 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, production of stethoscopes was full steam, with the production of approximately 300 stethoscopes created and deployed in Canada. In the developing country, stethoscope production is gradually restarting after a long break as part of an emergency response. As well, an instructional assembly video was created.
+
+=== Tourniquets ===
+Over 3600 tourniquets have been made to date. In this quarter, the Ministry of Health agreed to strike a joint task force for the coordinated acquisition, distribution and monitoring of tourniquet use, with an emphasis on local production.
+
+=== Pulse Oximeters ===
+The pulse oximetry project's collaboration with IRNAS (via Eng. Luka Mustafa) has yielded a final model of a pulse oximeter that fits all of the specifications. The pilot part of our clinical calibration trial began in February in collaboration with a team of experts on pulse oximetry in London Health Sciences Centre. The first part of the clinical trial should complete in the next quarter.
+
+=== Electrocardiogram ===
+The electrocardiogram is now ready for a clinical trial. We have submitted an application to the research ethics board in London, Ontario for testing.
+
+=== Instruction manual ===
+We started work on a documentation manual to carefully catalogue our setup and manufacture process for printer information sessions, stethoscopes, otoscopes, tourniquets, pulse oximeters and electrocardiograms. This site is developing well and is in the intermediate stage. We hope it will become a definitive resource in how to create these items.
+
+
+==== Where did you go? ====
+=== Developing country ===
+I was in the developing country in May. This was the first time I was allowed to return since last year, and allowed for important vision and planning conversations to happen.
+
+
+==== What have you been talking about? ====
+=== Free Hardware and Software ===
+During this quarter, we have continued to raise awareness about the benefits of Free Hardware and Software in the creation of sustainable and high quality medical devices. The insertion of this component into medical teaching on these devices has been a welcome addition to the curriculum on stethoscope use.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+  * The ministry of health of at least one developing country (moderate to high)
+  * Tunisian medical school (high)
+  * Esprit Engineering School of Tunisia (high)
+  * The biomedical engineering faculty at one developing country (high)
+  * London Health Sciences' Emergency department (high to very high)
+  * Western University Faculty of Medicine (high)
+  * Open Source Hardware Association (moderate)
+
+We are seeking more engagement with:
+  * The ministry of education of at least one developing country (moderate likelihood)
+  * Other universities in the developing country (moderate likelihood)
+  * Other medical schools in Canada (high likelihood)
+
+We are rebuilding our relationship with:
+  * World Health Organization's Health Cluster (severed previously due to political pressure)
+
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+=== Glia Tunisia office will launch soon ===
+As of July 1st, the Glia Tunisia office will be launched. Planning for this has been a difficult but important organizational exercise. It also marks the first true independent Glia office that will have to be integrated into the decision-making, fundraising and quality assurance strategy of the project.
+
+=== The tourniquet project will soon be nationalized in developing country ==
+There was a drive over the past quarter to create a coordinated national strategy for tourniquet acquisition, deployment, training and monitoring. This strategy will allow for multiple sub-national agencies responsible for prehospital and trauma care to coordinate their efforts and ensure even distribution of tourniquets.
+
+=== Glia Canada is (almost) ready to launch Stethoscope 2.0 ===
+Glia Canada has been stocking up on stethoscopes in anticipation of the launch and online availability of the second version of our stethoscope. This has also forced an understanding of various issues related to supply chain management and distribution planning.
+
+
+==== What was your biggest loss over the past 3 months - and what did you learn from it? ====
+=== Growing pains in Glia offices ===
+The opening of a new Glia location presents many complex and interesting problems for all members of the group. We have approached this problem carefully and tried to create an administrative structure that facilitates cohesive decision-making and ensures high quality of the devices. It is almost certain the current structure will require adaptation, so the team is monitoring the performance of the new office and coordinating structure to ensure the goals of all locations are met.
+
+
+==== What is the shape of your team? ====
+=== Developing country ===
+  * Three full-time engineers (Shuttleworth-funded)
+  * One part-time physician who is providing medical advice and support in the developing country (Fellow funded)
+  * Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+  * Project manager (Shuttleworth-funded)
+  * Volunteer designer
+
+=== Slovenia ===
+  * IRNAS team working on pulse oximetry and electrocardiogram (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+  * Number of stethoscopes distributed in Canada this quarter: 200
+  * Number of stethoscopes distributed in the developing country this quarter: 0
+  * Number of tourniquets created in developing country this quarter: 600
+  * Number of tourniquets deployed in the field this quarter: unknown
+  * Number of patients tested with prototype pulse oximeter (calibration): 3
+  * Number of patients tested with prototype pulse oximeter (validation): 0
