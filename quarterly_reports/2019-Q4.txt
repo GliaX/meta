@@ -1,0 +1,92 @@
+====== Tarek Loubani Quarterly Update September-November, 2019 ======
+
+==== What did you make? ====
+=== Stethoscopes ===
+Stethoscopes are the base product for the Glia project, since it allows us to put the idea into the public sphere as well as allowing the Glia team to refine and improve the development and manufacturing process.
+
+In this quarter, production of stethoscopes was full steam, with the production of approximately 500 stethoscopes created and 100 deployed in Canada. In the developing country, stethoscope production has restarted in earnest and we have received funding to provide the medical school classes with stethoscopes. As well, an instructional assembly video was created and is live. A webstore was also created for stethoscopes and has started selling them.
+
+=== Tourniquets ===
+Over 3600 tourniquets have been made to date. In the last quarter, the Ministry of Health agreed to strike a joint task force for the coordinated acquisition, distribution and monitoring of tourniquet use, with an emphasis on local production. This task force is slowly proceeding.
+
+=== Pulse Oximeters ===
+The pulse oximetry project's collaboration with IRNAS (via Eng. Luka Mustafa) has yielded a final model of a pulse oximeter that fits all of the specifications. The pilot part of our clinical calibration trial began in February in collaboration with a team of experts on pulse oximetry in London Health Sciences Centre. The first part of the clinical trial is progressing well and should complete by mid 2020.
+
+=== Electrocardiogram ===
+The electrocardiogram is now ready for a clinical trial. We have submitted an application to the research ethics board in London, Ontario for testing.
+
+=== Otoscope ===
+The otoscope is being examined for mass production. We expect this production to start in the next 6 months.
+
+
+==== Where did you go? ====
+=== Developing country ===
+I was granted entry to the developing country in November.
+
+=== France & Morocco ===
+I traveled to France and Morocco to talk about the health situation in the developing country.
+
+
+==== What have you been talking about? ====
+=== Free Hardware and Software ===
+During this quarter, we have continued to raise awareness about the benefits of Free Hardware and Software in the creation of sustainable and high quality medical devices. The insertion of this component into medical teaching on these devices has been a welcome addition to the curriculum on stethoscope use.
+
+=== The utility of the tourniquet ===
+An unfortunate incident caused serious concerns to occur regarding the widespread use of tourniquets in the field. As a result, unfortunately the government was forced to issue a stop order on tourniquet use for a short period of time while this issue was resolved. We have been discussing carefully the utility of the tourniquet.
+
+==== Who is joining your thinking? ====
+We have had increasing engagement by:
+  * The ministry of health of at least one developing country (moderate to high)
+  * Tunisian medical school (high)
+  * Esprit Engineering School of Tunisia (high)
+  * The biomedical engineering faculty at one developing country (high)
+  * London Health Sciences' Emergency department (high to very high)
+  * Western University Faculty of Medicine (high)
+  * Open Source Hardware Association (moderate)
+
+We are seeking more engagement with:
+  * The ministry of education of at least one developing country (moderate likelihood)
+  * Other universities in the developing country (moderate likelihood)
+  * Other medical schools in Canada (high likelihood)
+
+We are rebuilding our relationship with:
+  * World Health Organization's Health Cluster (severed previously due to political pressure)
+
+
+==== What was your biggest win over the past 3 months - and what did you learn from it? ====
+
+=== Glia Canada is ready to launch Stethoscope 2.0 ===
+Glia Canada has been stocking up on stethoscopes in anticipation of the launch and online availability of the second version of our stethoscope. This has also forced an understanding of various issues related to supply chain management and distribution planning.
+
+
+==== What was your biggest loss over the past 3 months - and what did you learn from it? ====
+=== Reorganizing the Glia team ===
+The Glia team has been evolving, which has required a deeper rethink and institutionalization of our roles, especially with the recent inclusion of our incoming Production Manager. We have taken the time to discuss and lay out our roles. This was a key exercise that has clarified how we can grow in the future as well.
+
+We are trying not to recreate business practices that are well-rehearsed in other organizations that have scaled, and have been trying to recruit people with business expertise to help.
+
+
+==== What is the shape of your team? ====
+=== Developing country ===
+  * Three full-time engineers (Shuttleworth-funded)
+  * One full-time physician who is providing medical advice and support in the developing country (Fellow funded)
+  * Three biomedical engineers in university working part-time in collaboration with Glia team (Locally-funded)
+
+=== Canada ===
+  * Project manager (Shuttleworth-funded)
+  * Production manager (personally funded)
+  * Volunteer designer
+
+=== Slovenia ===
+  * IRNAS team working on pulse oximetry and electrocardiogram (Shuttleworth-funded)
+
+==== What are the metrics you are tracking yourself against - and where are you? ====
+The metrics:
+  * Number of stethoscopes distributed in Canada this quarter: 400
+  * Number of stethoscopes distributed in the developing country this quarter: 0
+  * Number of otoscopes distributed in Canada this quarter: 0
+  * Number of otoscopes distributed in the developing country this quarter: 0
+  * Number of tourniquets created in developing country this quarter: 600
+  * Number of tourniquets deployed in the field this quarter: unknown
+  * Number of patients tested with prototype pulse oximeter (calibration): 6 (1 complete protocol)
+  * Number of patients tested with prototype pulse oximeter (validation): 0
