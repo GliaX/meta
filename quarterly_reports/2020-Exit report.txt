@@ -1,0 +1,55 @@
+====== Tarek Loubani ======
+
+**Topic:** High-Quality Low-Cost Open-source medical devices
+
+**Fellowship Summary:** The Fellowship's goal was to improve medical care for patients internationally. The Glia team made substantial headway into this goal, creating cultures of open hardware, 3D printing and open medical devices in the international location, in Canada and in Tunisia.
+
+During the fellowship, the team released several medical devices and drew attention to the problems of the modern medical device patent system.
+
+
+**Fellowship duration:** 1 March 2017 - 29 Feb 2020
+
+**Fellowship in review:**  
+
+  * May 2017: [[TL Quarterly May 2017|TL Quarterly Report May 2017]]
+  * Aug 2017: [[TL Quarterly August 2017|TL Quarterly Report Aug 2017]]
+  * Nov 2017: [[TL Quarterly November 2017|TL Quarterly Report Nov 2017]]
+  * Feb 2018: [[TL Quarterly February 2018|TL Quarterly Report Feb 2018]]
+  * May 2018: [[TL Quarterly May 2018|TL Quarterly Report May 2018]]
+  * Aug 2018: [[TL Quarterly August 2018|TL Quarterly Report Aug 2018]]
+  * Nov 2018: [[TL Quarterly November 2018|TL Quarterly Report Nov 2018]]
+  * Feb 2019: [[TL Quarterly February 2019|TL Quarterly Report Feb 2019]]
+  * May 2019: [[TL Quarterly May 2019|TL Quarterly Report May 2019]]
+  * Aug 2019: [[TL Quarterly August 2019|TL Quarterly Report Aug 2019]]
+  * Nov 2018: [[TL Quarterly November 2019|TL Quarterly Report Nov 2019]]
+
+
+**Project spend to date:** USD 
+
+**Reinvestment from Fellow to date:** USD  
+
+**Highlights:**
+
+During this fellowship, the Glia team accomplished some key objectives set out early in the Fellowship's course.
+
+  * Glia's team grew from one dedicated member to teams in three locations: Canada, Tunisia and another international location to three full-time employees in the international location and 2.5 full-time members in Canada in addition to the Fellow.
+  * The team released the Stethoscope, taking the product to completion and now selling it on the open market in Canada
+  * The team released the Otoscope and plans to market it soon.
+  * The team developed a Pulse Oximeter and began clinical trials.
+  * The team developed an electrocardiogram and has submitted for ethics approval of a clinical trial.
+  * The team developed, tested and deployed a tourniquet into an active battlefield situation, and it appears to perform as well as the premium brand equivalent.
+  * The team established Tashkeel in the foreign country, which has now become an advocate of 3D printing and open source hardware design.
+
+**Next steps:** 
+
+  * Take Otoscope to market
+  * Complete clinical trials of Pulse Oximeter
+  * Complete clinical trials of Electrocardiogram
+  * Complete clinical trial proving equivalence of tourniquet
+  * Continue to expand Tunisia office and create proper foundation for it
+  * Consider cooperation with group in Mexico's Chiapas region
+
+**Useful links:** 
+
+  * https://glia.org
+  * https://github.com/GliaX
