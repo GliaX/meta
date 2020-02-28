@@ -32,7 +32,7 @@ I traveled to France and Morocco to talk about the health situation in the devel
 During this quarter, we have continued to raise awareness about the benefits of Free Hardware and Software in the creation of sustainable and high quality medical devices. The insertion of this component into medical teaching on these devices has been a welcome addition to the curriculum on stethoscope use.
 
 === The utility of the tourniquet ===
-An unfortunate incident caused serious concerns to occur regarding the widespread use of tourniquets in the field. As a result, unfortunately the government was forced to issue a stop order on tourniquet use for a short period of time while this issue was resolved. We have been discussing carefully the utility of the tourniquet.
+An unfortunate incident caused serious concerns to occur regarding the widespread use of tourniquets in the field. As a result, unfortunately the government was forced to issue a stop order on tourniquet use for a short period of time while this issue was resolved. We have been discussing carefully the utility of the tourniquet, and distributed some well-researched documents on their utility and the scientific evidence supporting their use.
 
 ==== Who is joining your thinking? ====
 We have had increasing engagement by:
@@ -55,15 +55,15 @@ We are rebuilding our relationship with:
 
 ==== What was your biggest win over the past 3 months - and what did you learn from it? ====
 
-=== Glia Canada is ready to launch Stethoscope 2.0 ===
-Glia Canada has been stocking up on stethoscopes in anticipation of the launch and online availability of the second version of our stethoscope. This has also forced an understanding of various issues related to supply chain management and distribution planning.
+=== Glia Canada launched Stethoscope 2.0 ===
+Glia Canada has been stocking up on stethoscopes in anticipation of the launch and online availability of the second version of our stethoscope. This has also forced an understanding of various issues related to supply chain management and distribution planning. After a strong start, we continue to roll out our sales and support strategy, as well as quality assurance.
+
+The addition of a production manager has been pivotal to this positive development.
 
 
 ==== What was your biggest loss over the past 3 months - and what did you learn from it? ====
 === Reorganizing the Glia team ===
-The Glia team has been evolving, which has required a deeper rethink and institutionalization of our roles, especially with the recent inclusion of our incoming Production Manager. We have taken the time to discuss and lay out our roles. This was a key exercise that has clarified how we can grow in the future as well.
-
-We are trying not to recreate business practices that are well-rehearsed in other organizations that have scaled, and have been trying to recruit people with business expertise to help.
+The Glia team's reorganization started several months ago and has brought our team to its next phase in the past few weeks. Hopefully within the next quarter the shape of the team will be clear and we can better understand what Glia will look like in the developing country in the coming decade.
 
 
 ==== What is the shape of your team? ====
@@ -75,6 +75,7 @@ We are trying not to recreate business practices that are well-rehearsed in othe
 === Canada ===
   * Project manager (Shuttleworth-funded)
   * Production manager (personally funded)
+  * Research director (personally funded)
   * Volunteer designer
 
 === Slovenia ===
